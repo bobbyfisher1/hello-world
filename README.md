@@ -1,0 +1,1 @@
+This is just a nonfunctional repository to learn the ropes with using Git
